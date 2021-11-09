@@ -13,6 +13,8 @@ function Carousel() {
                 <li><img src={photo2} alt=""/></li>
                 
             </ul>
+            <a id="prev" href="#">&#8810;</a>
+            <a id="next" href="#">&#8811;</a>
 
     </div>
     );
